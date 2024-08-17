@@ -1,1 +1,1 @@
-Is what it says on the tin - Just a simple template for using Linear regression (Machine learning algorithm)
+Is what it says on the tin - Just a repo containing template for M.L algorithms
